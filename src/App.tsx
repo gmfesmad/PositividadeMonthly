@@ -1,13 +1,6 @@
-import { useCallback, useState } from 'react'
-import { computeAnalytics } from './lib/analytics'
-import {
-  extractParticipants,
-  inferMonthLabel,
-  monthKeyFromLabel,
-  parseReelsFromExport,
-} from './lib/parser'
+import { monthlyAnalytics } from './lib/messagesData'
+import { monthKeyFromLabel } from './lib/parser'
 import type { MonthlyAnalytics } from './types'
-import { FileUpload } from './components/FileUpload'
 import { MvpVote } from './components/MvpVote'
 import { ReactionBreakdown } from './components/ReactionBreakdown'
 import { ReelsChart } from './components/ReelsChart'
@@ -73,100 +66,19 @@ function Dashboard({ analytics }: { analytics: MonthlyAnalytics }) {
 }
 
 export default function App() {
-  const [analytics, setAnalytics] = useState<MonthlyAnalytics | null>(null)
-  const [error, setError] = useState<string | null>(null)
-  const [loading, setLoading] = useState(false)
-
-  const handleFile = useCallback(async (file: File) => {
-    setLoading(true)
-    setError(null)
-    try {
-      const text = await file.text()
-      const data: unknown = JSON.parse(text)
-      const reels = parseReelsFromExport(data)
-
-      if (reels.length === 0) {
-        setError(
-          'Nenhum reel encontrado. Confirma que o JSON tem mensagens com links instagram.com/reel ou export oficial do Instagram.',
-        )
-        setAnalytics(null)
-        return
-      }
-
-      const monthLabel = inferMonthLabel(data, file.name)
-      const members = extractParticipants(data, reels.map((r) => r.sender))
-      setAnalytics(computeAnalytics(reels, members, monthLabel))
-    } catch {
-      setError('Ficheiro JSON inválido. Verifica o formato e tenta de novo.')
-      setAnalytics(null)
-    } finally {
-      setLoading(false)
-    }
-  }, [])
-
-  const loadSample = useCallback(async () => {
-    setLoading(true)
-    setError(null)
-    try {
-      const res = await fetch('/sample-messages.json')
-      const data: unknown = await res.json()
-      const reels = parseReelsFromExport(data)
-      const monthLabel = inferMonthLabel(data, 'abril-2026.json')
-      const members = extractParticipants(data, reels.map((r) => r.sender))
-      setAnalytics(computeAnalytics(reels, members, monthLabel))
-    } catch {
-      setError('Não foi possível carregar o exemplo.')
-    } finally {
-      setLoading(false)
-    }
-  }, [])
-
   return (
     <div className="min-h-dvh bg-[#0f0f12] text-white">
       <div className="pointer-events-none fixed inset-0 bg-[radial-gradient(ellipse_at_top,_rgba(236,72,153,0.15),_transparent_50%),radial-gradient(ellipse_at_bottom_right,_rgba(168,85,247,0.12),_transparent_45%)]" />
 
       <main className="relative mx-auto max-w-lg px-4 pb-safe pt-6 sm:max-w-xl sm:px-6 sm:pt-10">
-        {!analytics ? (
-          <div className="space-y-6">
-            <header className="space-y-2 text-center sm:text-left">
-              <p className="text-sm font-medium uppercase tracking-widest text-pink-400/80">
-                Positividade Reels
-              </p>
-              <h1 className="text-3xl font-bold text-white">Monthly Analytics</h1>
-              <p className="text-white/55">
-                Carrega o export JSON do grupo do Instagram e vê quem mandou mais reels,
-                quais tiveram mais reações e vota no MVP.
-              </p>
-            </header>
-
-            <FileUpload onFile={handleFile} loading={loading} />
-
-            <button
-              type="button"
-              onClick={loadSample}
-              disabled={loading}
-              className="w-full rounded-xl border border-white/15 py-3 text-sm text-white/70 transition hover:bg-white/5 disabled:opacity-50"
-            >
-              Experimentar com dados de exemplo
-            </button>
-
-            {error && (
-              <p className="rounded-xl border border-red-400/30 bg-red-500/10 px-4 py-3 text-sm text-red-200">
-                {error}
-              </p>
-            )}
-          </div>
+        {!monthlyAnalytics ? (
+          <p className="rounded-xl border border-red-400/30 bg-red-500/10 px-4 py-3 text-sm text-red-200">
+            Nenhum reel encontrado em{' '}
+            <code className="text-red-100">src/data/messages.json</code>. Substitui o ficheiro pelo
+            export do Instagram e volta a fazer build.
+          </p>
         ) : (
-          <>
-            <button
-              type="button"
-              onClick={() => setAnalytics(null)}
-              className="mb-4 text-sm text-white/45 hover:text-white/70"
-            >
-              ← Carregar outro mês
-            </button>
-            <Dashboard analytics={analytics} />
-          </>
+          <Dashboard analytics={monthlyAnalytics} />
         )}
       </main>
     </div>
