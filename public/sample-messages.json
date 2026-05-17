@@ -1,0 +1,103 @@
+{
+  "participants": [
+    { "name": "Ana Silva" },
+    { "name": "Bruno Costa" },
+    { "name": "Carla Mendes" },
+    { "name": "Diogo Alves" }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ana Silva",
+      "timestamp_ms": 1714521600000,
+      "share": {
+        "link": "https://www.instagram.com/reel/C1abc123/",
+        "share_text": "Vê isto"
+      },
+      "reactions": [
+        { "reaction": "❤", "actor": "Bruno Costa" },
+        { "reaction": "😂", "actor": "Carla Mendes" },
+        { "reaction": "❤", "actor": "Diogo Alves" }
+      ]
+    },
+    {
+      "sender_name": "Bruno Costa",
+      "timestamp_ms": 1714608000000,
+      "share": {
+        "link": "https://www.instagram.com/reel/C2def456/"
+      },
+      "reactions": [
+        { "reaction": "❤", "actor": "Ana Silva" }
+      ]
+    },
+    {
+      "sender_name": "Ana Silva",
+      "timestamp_ms": 1714694400000,
+      "share": {
+        "link": "https://www.instagram.com/reel/C3ghi789/"
+      },
+      "reactions": [
+        { "reaction": "🔥", "actor": "Bruno Costa" },
+        { "reaction": "❤", "actor": "Carla Mendes" }
+      ]
+    },
+    {
+      "sender_name": "Carla Mendes",
+      "timestamp_ms": 1714780800000,
+      "share": {
+        "link": "https://www.instagram.com/reel/C4jkl012/"
+      },
+      "reactions": [
+        { "reaction": "❤", "actor": "Ana Silva" },
+        { "reaction": "❤", "actor": "Bruno Costa" },
+        { "reaction": "😮", "actor": "Diogo Alves" },
+        { "reaction": "❤", "actor": "Diogo Alves" }
+      ]
+    },
+    {
+      "sender_name": "Diogo Alves",
+      "timestamp_ms": 1714867200000,
+      "share": {
+        "link": "https://www.instagram.com/reel/C5mno345/"
+      },
+      "reactions": []
+    },
+    {
+      "sender_name": "Bruno Costa",
+      "timestamp_ms": 1714953600000,
+      "share": {
+        "link": "https://www.instagram.com/reel/C6pqr678/"
+      },
+      "reactions": [
+        { "reaction": "❤", "actor": "Carla Mendes" },
+        { "reaction": "😂", "actor": "Ana Silva" }
+      ]
+    },
+    {
+      "sender_name": "Bruno Costa",
+      "timestamp_ms": 1715040000000,
+      "content": "Olha este",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7stu901/"
+      },
+      "reactions": [
+        { "reaction": "❤", "actor": "Diogo Alves" }
+      ]
+    },
+    {
+      "sender_name": "Ana Silva",
+      "timestamp_ms": 1715126400000,
+      "content": "Bom dia grupo!",
+      "reactions": []
+    },
+    {
+      "sender_name": "Carla Mendes",
+      "timestamp_ms": 1715212800000,
+      "share": {
+        "link": "https://www.instagram.com/reel/C8vwx234/"
+      },
+      "reactions": [
+        { "reaction": "❤", "actor": "Bruno Costa" }
+      ]
+    }
+  ]
+}
