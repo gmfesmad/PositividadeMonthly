@@ -33,8 +33,8 @@ jobs:
         run: npm run build
         env:
           VITE_BASE_PATH: /${{ github.event.repository.name }}/
-          VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
-          VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
+          VITE_SUPABASE_URL: https://hytujuxndxfgkuhnvgef.supabase.co
+          VITE_SUPABASE_ANON_KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh5dHVqdXhuZHhmZ2t1aG52Z2VmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkwMzM2MzMsImV4cCI6MjA5NDYwOTYzM30.8G-sHX-doXLJgQaM6Y-fmC4BABE7ISDLAOrSGl9_qvE
 
       - name: Verify production bundle (not dev index.html)
         run: |
