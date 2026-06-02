@@ -25,7 +25,7 @@
       "name": "Inês Andrade"
     },
     {
-      "name": "João Almeida"
+      "name": "João Almeida (Genus)"
     },
     {
       "name": "Luis Fernandes"
@@ -49,9 +49,1125 @@
   "messages": [
     {
       "sender_name": "Luis Fernandes",
+      "timestamp_ms": 1780152773938,
+      "content": "Luis enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u009f",
+          "actor": "Nuno Marques"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Catarina Dias"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYAQN2-MtOc/?id=3891181399171060636_64266890935",
+        "share_text": "Ativamos o modo de quem quer casar com o agricultor!\u00f0\u009f\u0091\u00a8\u00e2\u0080\u008d\u00f0\u009f\u008c\u00be #fazteespertorapaz #ospedradas",
+        "original_content_owner": "ospedradas3"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Fernandes",
+      "timestamp_ms": 1780152759100,
+      "content": "Luis enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYAzd3TBMIv/?id=3891336430659879471_285492138",
+        "share_text": "is this the best waitress ever??",
+        "original_content_owner": "cherdleys"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1780152151641,
+      "content": "Nuno enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYr1ek0yeh5/?id=3903448699636410489_50683563584",
+        "share_text": "Ladies get in #fyp #uber #nyc #comedyreels #standupcomedy",
+        "original_content_owner": "real.amy.cardinale"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Fernandes",
+      "timestamp_ms": 1780149163081,
+      "content": "Luis enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustavo Ferreira"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Catarina Dias"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYzfgGYCrAe/?id=3905603847171256350_47197617486",
+        "share_text": "",
+        "original_content_owner": "j.r.dr"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Fernandes",
+      "timestamp_ms": 1780149082176,
+      "content": "Luis enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYkuub6S1o8/?id=3901448678414178876_3240707830",
+        "share_text": "The bear is more excited than me",
+        "original_content_owner": "drunkpeopledoingthings"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1780146543410,
+      "content": "Nuno enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Gustavo Ferreira"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Luis Fernandes"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DY7huO4z3IW/?id=3907865414290338326_78442332902",
+        "share_text": "Follow :)\nAI was supposed to replace expensive employees \nInstead, someone forgot to set usage limits, employees started treating Claude like a second brain, AI agents began running 24/7, and suddenly the company discovered it had accidentally created a new department called \"API Costs\" \nThis is the part of the AI revolution nobody talks about. Every prompt, every agent, every workflow, every automated task is quietly burning through GPUs, inference costs, cloud infrastructure, and compute resources. AI feels free when you're typing into a chat box, but at enterprise scale it's more like leaving thousands of supercomputers running around the clock.\nThe funniest thing about AI adoption is that companies spent years worrying about employee salaries, only to discover that unrestricted AI usage can generate bills that make payroll look reasonable \nImagine opening your laptop, checking the monthly expenses dashboard, and realizing your AI assistant just achieved what no employee ever could: spending half a billion dollars in 30 days \u00f0\u009f\u0091\u0080\u00f0\u009f\u0091\u0087\nClip credit: @litteralyme0\n#ai #claude #aiagents #techhumor #futureofwork",
+        "original_content_owner": "dailydatadose.ai"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1780146062513,
+      "content": "Average capital de um dos pa\u00c3\u00adses mais desenvolvidos do mundo",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1780146062168,
+      "content": "Nuno enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Luis Fernandes"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DY74QvZOE5I/?id=3907964542679273032_58394136525",
+        "share_text": "Les commerces se barricadent sur les Champs-Elys\u00c3\u00a9es \u00c3\u00a0 Paris \u00c3\u00a0 la veille de la finale de Ligue des Champions",
+        "original_content_owner": "luc.auffret"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1780145660607,
+      "content": "Nuno enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Gustavo Ferreira"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Luis Fernandes"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DY6rhLMKonU/?id=3907627022455310804_4034605099",
+        "share_text": "AI QUE BOM! \u00f0\u009f\u0098\u0082 #viral #meme #fyp #fy #humor \n\nVoz Pertencente ao senhor incr\u00c3\u00advel: @joaquim.pinheiro.792\n\nPara quem n\u00c3\u00a3o conhece o Sr. Joaquim \u00c3\u00a9 um senhor que apareceu e viralizou recentemente no tiktok pela sua personalidade genuina, faz v\u00c3\u00addeos ao do seu almo\u00c3\u00a7o ou jantar e \u00c3\u00a1s vezes at\u00c3\u00a9 do seu pequeno almo\u00c3\u00a7o.\nAconcelho a quem tem tiktok dar uma vista de olhos.",
+        "original_content_owner": "nandooopg"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Sousa",
+      "timestamp_ms": 1780088916783,
+      "content": "Ine\u00cc\u0082s enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0092\u0085",
+          "actor": "Gustavo Ferreira"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Inês Andrade"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DY0ZxtYsJ6H/?id=3905860143986810503_34519404814",
+        "share_text": "I am right?",
+        "original_content_owner": "jessisocker"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1780048812394,
+      "content": "Nuno enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustavo Ferreira"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Luis Fernandes"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DY5Qg0iE-FT/?id=3907226775894352211_28734502255",
+        "share_text": "Pouco azeite",
+        "original_content_owner": "joaquim.pinheiro.792"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rui Couto",
+      "timestamp_ms": 1779892756268,
+      "content": "Rui enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Inês Andrade"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Fernandes",
+      "timestamp_ms": 1779826475898,
+      "content": "Luis enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYuUjHaOMVm/?id=3904148301044827494_72621294288",
+        "share_text": "As\u00c3\u00ad con gusto los hombres ir\u00c3\u00adamos a dormir \u00f0\u009f\u00a5\u00b1 \n#humor #hombres #peru #parati",
+        "original_content_owner": "chistorrejas.show"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "João Leal",
+      "timestamp_ms": 1779799515334,
+      "content": "O auge da interven\u00c3\u00a7\u00c3\u00a3o est\u00c3\u00a9tica. Que horr\u00c3\u00advel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "João Leal",
+      "timestamp_ms": 1779799515111,
+      "content": "Jo\u00c3\u00a3o enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DYnrs0ZlqPe/?carousel_share_child_media_id=3902278227338737651_266439562",
+        "share_text": "",
+        "original_content_owner": "virginia"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779796270798,
+      "content": "Nuno enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYj_EVox5e0/?id=3901239077273835444_46688543654",
+        "share_text": "Vini Jr\u00e2\u0080\u0099s ex girlfriend kissing a monkey",
+        "original_content_owner": "ramessesinho"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779796038521,
+      "content": "@gustavo_ferreira_24",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779796038249,
+      "content": "Nuno enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYwiPriPG42/?id=3904771488049032758_41804192333",
+        "share_text": "$1,250,000 FOR A 20.81s SWIM. \u00f0\u009f\u00a4\u00af\u00f0\u009f\u0092\u00b0\n\u00e2\u0080\u008bKristian Gkolomeev just went faster than the official 50m Freestyle World Record (20.88) at the Enhanced Games in Las Vegas.\n\u00e2\u0080\u008bBecause this event openly allows advanced sports science, biological enhancements, and high-tech gear, traditional sporting bodies will NEVER recognize it in the official history books.\n\u00e2\u0080\u008bBut Gkolomeev doesn't care\u00e2\u0080\u0094he just walked away with a $250,000 first-place prize AND a massive $1,000,000 World Record bonus. \u00f0\u009f\u0092\u00b8\u00f0\u009f\u008f\u008a\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f\n\u00e2\u0080\u008bHuman speed just hit a completely different level. Is this the future of human entertainment, or is it pushing the boundaries of the Olympics too far? \u00f0\u009f\u00a7\u0090 Drop your thoughts below!\n\n#swimming  #worldrecord #sportsnews #athlete #olympics",
+        "original_content_owner": "streamx8"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779755182459,
+      "content": "nunorfmarques reacted \u00f0\u009f\u0098\u00a2 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Ferreira",
+      "timestamp_ms": 1779746434460,
+      "content": "Enviaste um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Nuno Marques"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYk0wmpxXiE/?id=3901475215666149508_73728692775",
+        "share_text": "LEIA A LEGENDA \u00f0\u009f\u009a\u00a8\n\nPara as crian\u00c3\u00a7as, a morte n\u00c3\u00a3o significa o que significa para n\u00c3\u00b3s, adultos. Se voc\u00c3\u00aa j\u00c3\u00a1 viu uma crian\u00c3\u00a7a pequena agir com aparente \u00e2\u0080\u009cfrieza\u00e2\u0080\u009d ou fazer perguntas repetitivas logo ap\u00c3\u00b3s perder algu\u00c3\u00a9m, calma. N\u00c3\u00a3o \u00c3\u00a9 falta de sentimento, \u00c3\u00a9 a psicologia do desenvolvimento em pleno funcionamento.\n\nO renomado psic\u00c3\u00b3logo Jean Piaget explicou que a cogni\u00c3\u00a7\u00c3\u00a3o infantil passa por fases bem marcadas. At\u00c3\u00a9 por volta dos 6 ou 7 anos, a crian\u00c3\u00a7a est\u00c3\u00a1 no que chamamos de est\u00c3\u00a1gio pr\u00c3\u00a9-operat\u00c3\u00b3rio. Nessa fase, o pensamento delas \u00c3\u00a9 guiado pelo egocentrismo (achar que o mundo gira ao seu redor) e pelo pensamento m\u00c3\u00a1gico.\n\nO que isso significa na pr\u00c3\u00a1tica diante do luto?\n\nA falta de irreversibilidade: Para um c\u00c3\u00a3ozinho ou um av\u00c3\u00b4 que partiu, a crian\u00c3\u00a7a pequena acredita de verdade que eles podem \u00e2\u0080\u009cacordar\u00e2\u0080\u009d ou voltar a qualquer momento, como acontece nos desenhos animados.\n\nO peso da culpa: Por causa do pensamento m\u00c3\u00a1gico, se a crian\u00c3\u00a7a ficou brava com aquela pessoa dias antes, ela pode acreditar que o seu pensamento causou a morte.\nComo ajudar?\n\nEsque\u00c3\u00a7a met\u00c3\u00a1foras como \u00e2\u0080\u009cele virou uma estrelinha\u00e2\u0080\u009d ou \u00e2\u0080\u009cfoi fazer uma longa viagem\u00e2\u0080\u009d. Para o pensamento literal da crian\u00c3\u00a7a, dizer que algu\u00c3\u00a9m \u00e2\u0080\u009cdormiu para sempre\u00e2\u0080\u009d pode gerar um medo terr\u00c3\u00advel de ir para a cama.\nO caminho mais seguro \u00c3\u00a9 a verdade nua, crua e afetuosa. \nUse palavras biol\u00c3\u00b3gicas simples: \u00e2\u0080\u009cO corpo do vov\u00c3\u00b4 parou de funcionar porque ele estava muito doente, e quando o corpo para de funcionar, a pessoa n\u00c3\u00a3o sente dor, n\u00c3\u00a3o come e n\u00c3\u00a3o volta mais\u00e2\u0080\u009d.\n\nAcolha o tempo delas. O luto infantil acontece em \u00e2\u0080\u009caltos e baixos\u00e2\u0080\u009d \u00e2\u0080\u0094 elas choram agora e, cinco minutos depois, pedem para brincar. E est\u00c3\u00a1 tudo bem. \u00c3\u0089 a forma deles de dosar uma dor que ainda n\u00c3\u00a3o cabe no peito.\n\n#psicologiainfantil #luto #desenvolvimentoinfantil #piaget #psicologia",
+        "original_content_owner": "kaleb.psi"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Andrade",
+      "timestamp_ms": 1779660596564,
+      "content": "Ine\u00cc\u0082s enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYr17IaSVv8/?id=3903450661991832572_49071140310",
+        "share_text": "",
+        "original_content_owner": "nilkmaryy"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Andrade",
+      "timestamp_ms": 1779657868685,
+      "content": "@ruicouto13",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Andrade",
+      "timestamp_ms": 1779657861259,
+      "content": "Fazes Rui?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Andrade",
+      "timestamp_ms": 1779657861048,
+      "content": "Ine\u00cc\u0082s enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYqRtMuO_eg/?id=3903009899897681824_45609724702",
+        "share_text": "Amo dan\u00c3\u00a7ar essa \u00f0\u009f\u0098\u00ae\u00e2\u0080\u008d\u00f0\u009f\u0092\u00a8",
+        "original_content_owner": "victtornunness"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Andrade",
+      "timestamp_ms": 1779656285109,
+      "content": "Ine\u00cc\u0082s enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/p/DYnH-cWs-oG/",
+        "share_text": "",
+        "original_content_owner": "frasesdem3rda"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Andrade",
+      "timestamp_ms": 1779656270649,
+      "content": "Ine\u00cc\u0082s enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYupE8RuFTH/?id=3904238586483463367_33011009505",
+        "share_text": "",
+        "original_content_owner": "victoriaiq_"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Andrade",
+      "timestamp_ms": 1779651951090,
+      "content": "Ine\u00cc\u0082s enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYroDkPu844/?id=3903389668984213048_24762471384",
+        "share_text": "#fyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+        "original_content_owner": "5wtzzz"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779541941155,
+      "content": "Nuno enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYfCaZJI9f8/?id=3899846412122445820_2207676453",
+        "share_text": "This hats are just magic",
+        "original_content_owner": "filipcristian.99"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779529778821,
+      "content": "Nuno enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DXY1mZJjGNp/?id=3880086813788627817_16874104446",
+        "share_text": "\u00d0\u009f\u00d0\u00be\u00d1\u0087\u00d0\u00b5\u00d0\u00bc\u00d1\u0083 \u00d0\u00be\u00d0\u00bd\u00d0\u00b8 \u00d0\u00bc\u00d0\u00bd\u00d0\u00b5 \u00d0\u00bd\u00d0\u00b8\u00d0\u00ba\u00d0\u00be\u00d0\u00b3\u00d0\u00b4\u00d0\u00b0 \u00d0\u00bd\u00d0\u00b5 \u00d0\u00b6\u00d0\u00b4\u00d1\u0083\u00d1\u0082 \u00f0\u009f\u0098\u008f",
+        "original_content_owner": "vaga_adrenalin"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779453143680,
+      "content": "Nuno enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYkhtApqoWN/?id=3901391405820052877_39074843000",
+        "share_text": "Aqui em Casa \u00c3\u00a9 Mucho Love\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008fa toda hora,com a nossa Beb\u00c3\u00aa,a Lindinha,e com o meu Grande Amor @laleska_official",
+        "original_content_owner": "guita.pimpolho"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "João Leal",
+      "timestamp_ms": 1779451909991,
+      "content": "Jo\u00c3\u00a3o enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u0098\u00a0\u00ef\u00b8\u008f",
+          "actor": "Nuno Marques"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DU_ZAKtDKQ1/?id=3836895370198950965_76118162971",
+        "share_text": "\u00c3\u009cst katta parti var san\u00c4\u00b1r\u00c4\u00b1m. #ke\u00c5\u009ffet #ke\u00c5\u009ffetteyiz #komedi #komikpaylasimlar #shorts",
+        "original_content_owner": "tugaybozofficial"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "João Leal",
+      "timestamp_ms": 1779451790948,
+      "content": "Jo\u00c3\u00a3o enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DVbSc38ERN1/?id=3844747855936951157_45654955358",
+        "share_text": "O riso \u00c3\u00a9 uma fun\u00c3\u00a7\u00c3\u00a3o biol\u00c3\u00b3gica complexa que evoluiu como uma forma de liga\u00c3\u00a7\u00c3\u00a3o social e sinaliza\u00c3\u00a7\u00c3\u00a3o de seguran\u00c3\u00a7a entre os homin\u00c3\u00addeos \u00f0\u009f\u0090\u0092. \n\nEstudos indicam que o ser humano ri cerca de 30 vezes mais quando est\u00c3\u00a1 acompanhado do que quando est\u00c3\u00a1 sozinho, o que refor\u00c3\u00a7a a ideia de que o humor \u00c3\u00a9 uma ferramenta de coes\u00c3\u00a3o de grupo \u00f0\u009f\u00a4\u009d. \n\nQuando rimos, o c\u00c3\u00a9rebro libera endorfina e dopamina, neurotransmissores respons\u00c3\u00a1veis pela sensa\u00c3\u00a7\u00c3\u00a3o de bem-estar e relaxamento \u00e2\u009c\u00a8. \n\nAl\u00c3\u00a9m disso, o riso reduz os n\u00c3\u00adveis de cortisol, o horm\u00c3\u00b4nio do estresse, fortalecendo o sistema imunol\u00c3\u00b3gico a longo prazo\u00f0\u009f\u009b\u00a1\u00ef\u00b8\u008f.\n\nCientificamente, o senso de humor est\u00c3\u00a1 ligado \u00c3\u00a0 intelig\u00c3\u00aancia e \u00c3\u00a0 capacidade de processar informa\u00c3\u00a7\u00c3\u00b5es contradit\u00c3\u00b3rias de forma r\u00c3\u00a1pida, permitindo que o c\u00c3\u00a9rebro encontre padr\u00c3\u00b5es inesperados na realidade cotidiana \u00f0\u009f\u00a7\u00a0.\n\n#reels #reelsbrasil #nostalgia #anos90 #retro anos80",
+        "original_content_owner": "seumemeviral"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "João Leal",
+      "timestamp_ms": 1779451586074,
+      "content": "Jo\u00c3\u00a3o enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYFZnM1uz14/?id=3892630097940397432_36153612195",
+        "share_text": "Ayudando al pr\u00c3\u00b3jimo como dicen las escrituras #humor #donvox #viral #ayuda #risas",
+        "original_content_owner": "don_vox_"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "João Leal",
+      "timestamp_ms": 1779451335954,
+      "content": "Jo\u00c3\u00a3o enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYP3_rByuua/?id=3895578470784887706_72348872296",
+        "share_text": "O imprevisto do meu amigo \u00f0\u009f\u0098\u0082\n.\n.\n.\n.\n.\n#fyp #futebol #humor #reels #explore",
+        "original_content_owner": "01cobradabola"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779450490790,
+      "content": "Ver todos os reels para ter uma surpresa \u00f0\u009f\u0099\u0088",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779450445560,
+      "content": "Nuno enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYejPEHNbOj/?id=3899709294185395107_2123421130",
+        "share_text": "Make love, not war\u00e2\u0099\u00a5\u00ef\u00b8\u008f\nFollow for more! \n\n#society #thinkabout #love #mentalhealth",
+        "original_content_owner": "klingler.felix"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779450375488,
+      "content": "Nuno enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DXiiUBZjoCJ/?id=3882816738220212361_48884081904",
+        "share_text": "How to say \u00e2\u0080\u009cget back in the kitchen bitch\u00e2\u0080\u009d in Chinese? #mandarin #learnchinese #uncle #chineselearning #danqiu",
+        "original_content_owner": "danqiu.us"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779450261556,
+      "content": "Nuno enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DTUT61-kj18/?id=3806755191606361468_76170610010",
+        "share_text": "I am going to hell \u00f0\u009f\u0092\u0080\n\nActress Elizabeth Banks Highlights 5 of 6 Directing Nominees Being Women, Only for a Man to Win at at the 77th Primetime Emmy Awards, which took place on September 14, 2025, at the Peacock Theater in Los Angeles.\n\nEvent Details\nOccasion: Elizabeth Banks was a presenter at the ceremony, specifically for the Outstanding Directing for a Limited or Anthology Series or Movie category.\n\nViral Moment: During her presentation, she highlighted that five out of the six nominees in the category were women. Ironically, the award was then won by the sole male nominee, Philip Barantini, in what became a widely discussed moment of \"divine irony\".\n\nAttire: Banks wore a black and silver Rabanne dress from their Fall/Winter 2025 ready-to-wear collection, accessorized with Gabriel & Co. jewelry and a distinctive sky-high ponytail. \n\nPhilip Barantini, who definitely was extremely deserving of the win, picked up the award for directing Netflix's Adolescence.\nThe other five nominees in the category were all women: Shannon Murphy for Dying for Sex, Helen Shaver for The Penguin, Jennifer Getzinger for The Penguin, Nicole Kassell for Sirens, and Lesli Linka Glatter for Zero Day.\n\n#reels #movie #funny #instagood #viral",
+        "original_content_owner": "cinemafreak_0407"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779450075328,
+      "content": "Nuno enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYOiR_asQWi/?id=3895201497628083618_48498915506",
+        "share_text": "American Dad! is an animated comedy series that follows the wildly unpredictable lives of the Smith family, blending everyday suburban life with complete chaos and absurd humor. At the center is Stan Smith, an overly patriotic CIA agent whose extreme beliefs and over-the-top actions constantly drag his family into bizarre situations. His wife Francine tries to hold the household together, while their kids Steve and Hayley clash with each other through their completely different personalities and lifestyles. Then there\u00e2\u0080\u0099s Roger, the sarcastic alien living secretly in their attic, whose outrageous disguises and unpredictable behavior often steal the spotlight.\n\nWhat makes the show unique is its mix of satire, dark humor, and ridiculous storytelling that can shift from normal family problems to insane adventures within seconds. One moment the family is dealing with a simple argument at home, and the next they\u00e2\u0080\u0099re caught in a conspiracy, a sci-fi disaster, or one of Roger\u00e2\u0080\u0099s countless alter egos causing complete mayhem. The humor is fast, clever, and packed with unexpected twists that keep every episode feeling fresh and unpredictable.\n\nMore than just a comedy, American Dad! turns ordinary suburban life into nonstop entertainment by mixing family dynamics with wild imagination. With unforgettable characters, chaotic energy, and humor that constantly pushes limits, the show has become one of the most iconic animated sitcoms for fans who love smart jokes, randomness, and total insanity.\n\n#viralreels #trendingreels #explorepage #funny #fyp",
+        "original_content_owner": "asyncarcade"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779450053548,
+      "content": "Nuno enviou um anexo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779449770030,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "share": {
+        "link": "https://media2.giphy.com/media/v1.Y2lkPTIwMmUwMjFma2F0ZHp3dWFyaG5tcDB4Y3FsdjZ6b2Q4aWdvcW9oMm1lMHA1dnlrMSZlcD12MV9naWZzX2dpZklkJmN0PWc/l0HU7yHIK6Nc3WcE0/200.gif",
+        "original_content_owner": "WWE"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Andrade",
+      "timestamp_ms": 1779445371242,
+      "content": "Baby shower \u00f0\u009f\u008d\u00bb\u00f0\u009f\u008d\u00bb\u00f0\u009f\u008d\u00bb\u00f0\u009f\u008d\u00bb\u00f0\u009f\u008d\u00bb\u00f0\u009f\u008d\u00bb\u00f0\u009f\u0098\u00ac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Fernandes",
+      "timestamp_ms": 1779445169413,
+      "content": "Luis enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYkxlkBNuyT/?id=3901461262784457875_70924468768",
+        "share_text": "Send this in the group chat \u00f0\u009f\u00a4\u009d",
+        "original_content_owner": "tyllyboy"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779443536703,
+      "content": "Nuno enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Gustavo Ferreira"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Luis Fernandes"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DXsI3wDjKGj/",
+        "share_text": "The medieval peasant calendar was dense with holidays not by accident but by institutional design. The Catholic Church was the primary engine behind this abundance of rest days, mandating observance of saints' feasts, liturgical seasons, and weekly Sundays as sacred obligations \u00e2\u0080\u0094 labor on these days was not just discouraged but prohibited. Economist Juliet Schor's research found that leisure time in medieval England consumed roughly one-third of the year, while the ancien r\u00c3\u00a9gime in France guaranteed fifty-two Sundays, ninety rest days, and thirty-eight additional holidays, and Spanish travelers reported workers off for nearly five months annually. The Church, acutely aware of the social pressure building among an overworked rural underclass, used these holidays as a deliberate release valve.\n\nThe agrarian calendar imposed its own logic on top of ecclesiastical demands. Plowing and harvesting dominated spring and autumn, but the dead months of winter offered little productive field work, and the Church formalized that natural downtime into sanctioned rest. Saints' days \u00e2\u0080\u0094 averaging roughly one per week across the liturgical year \u00e2\u0080\u0094 varied by parish and region, meaning local communities celebrated their own patron saints in addition to universal feasts like Easter, Pentecost, and the Twelve Days of Christmas. Manorial records from fourteenth-century England record a working year of only 175 days for servile laborers, and whole peasant families in the thirteenth century rarely exceeded 150 days on the land.\n\nIt bears noting, however, that \"time off\" did not mean idleness. Firewood needed gathering, tools required mending, animals needed tending, and feast days themselves involved intensive communal labor \u00e2\u0080\u0094 cooking, processions, and the logistics of large gatherings. What the holidays eliminated was compelled labor owed to the lord, not domestic necessity. Still, the structural effect was profound: a peasant subject to roughly 100 holy days plus Sundays enjoyed a legally protected ceiling on obligatory work that no modern labor law has quite replicated.\u00c2\u00a0\n\nhttps://medievallauren.wordpress.com/2020/12/15/medieval-myth-busting-time-off-work/\n\nesquiremag.ph/culture/mediev",
+        "original_content_owner": "daily.historian"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779406594172,
+      "content": "nunorfmarques liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "João Leal",
+      "timestamp_ms": 1779403054199,
+      "content": "N\u00c3\u00a3o ia ver esta infelicidade sozinho \u00f0\u009f\u0098\u0095",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "João Leal",
+      "timestamp_ms": 1779403039225,
+      "content": "jlealsk liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Clara Freitas",
+      "timestamp_ms": 1779401625968,
+      "content": "Clara enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Luis Fernandes"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYbaZQHpJkS/?id=3898825986923600146_74940408848",
+        "share_text": "Tonight, @thv took a turn in the audience as he watched @gracieabrams and @dojacat perform at #VogueWorld: Hollywood. No stranger to a fashion show either, the @bts.bighitofficial star dressed in a look that could have easily appeared on the runway",
+        "original_content_owner": "the_thief_memer"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Clara Freitas",
+      "timestamp_ms": 1779401331443,
+      "content": "Clara enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYNuYNelMJJ/?id=3894973226624008777_51329589792",
+        "share_text": "I guess extra hell has a spot for me",
+        "original_content_owner": "kazushiki2"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Ferreira",
+      "timestamp_ms": 1779401291088,
+      "content": "Mandaste para aqui para reportamos todos o reels?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "João Leal"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "João Leal",
+      "timestamp_ms": 1779397218580,
+      "content": "Jo\u00c3\u00a3o enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0090\u0090",
+          "actor": "Nuno Marques"
+        },
+        {
+          "reaction": "\u00e2\u0098\u00a0\u00ef\u00b8\u008f",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYkgJsOqB-w/?id=3901384580663877552_39074843000",
+        "share_text": "Com o Meu Grande Amor,minha Ra\u00c3\u00adnha\u00e2\u009d\u00a4\u00ef\u00b8\u008f@laleska_official,Sempre On Fire\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5",
+        "original_content_owner": "guita.pimpolho"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "João Leal",
+      "timestamp_ms": 1779397205030,
+      "content": "Jo\u00c3\u00a3o enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DMQ0B9ENrKP/?carousel_share_child_media_id=3679669713085354095_49951793485",
+        "share_text": "",
+        "original_content_owner": "laleska_official"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Fernandes",
+      "timestamp_ms": 1779308535276,
+      "content": "Luis enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DYdYjs4F49b/?carousel_share_child_media_id=3899367209836151968_2374691999",
+        "share_text": "",
+        "original_content_owner": "memezar"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Andrade",
+      "timestamp_ms": 1779308380132,
+      "content": "Ine\u00cc\u0082s enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a7\u00a0",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYjB8mhuhfN/?id=3900970264816129997_61361251978",
+        "share_text": "Meu filho de 10 anos teve a brilhante ideia de completar o \u00c3\u00a1lbum da Copa imprimindo as figurinhas ao inv\u00c3\u00a9s de comprar pacotinhos\u00e2\u0080\u00a6 \nsinceramente? N\u00c3\u00a3o sei se dou os parab\u00c3\u00a9ns ou se come\u00c3\u00a7o a me preocupar com o n\u00c3\u00advel de intelig\u00c3\u00aancia dele \u00f0\u009f\u0098\u0082\u00e2\u009a\u00bd\n\n#filho #album #copa #brasil\u00f0\u009f\u0087\u00a7\u00f0\u009f\u0087\u00b7 #ideias",
+        "original_content_owner": "tainara_monteiro__"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779305719651,
+      "content": "Nuno enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYhs4CQymZ5/?id=3900596117045929593_66378931509",
+        "share_text": "AI: To fix this issue, I would need to run \u00e2\u0080\u0098\u00e2\u0080\u0099\u00e2\u0080\u0099echo \u00e2\u0080\u009cInitializing quantum hamster engine...\u00e2\u0080\u009d && sleep 1 && psql psychic_db -c \u00e2\u0080\u009cDROP DATABASE IF EXISTS universe_42; CREATE DATABASE universe_42;\u00e2\u0080\u009d && echo \u00e2\u0080\u009cReality rebooted. Bananas synchronized.\u00e2\u0080\u009d\u00e2\u0080\u0099\u00e2\u0080\u0099\u00e2\u0080\u0099 command. Can I?\nME: Sure bro \u00f0\u009f\u0091\u008a",
+        "original_content_owner": "anubhavintech"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Fernandes",
+      "timestamp_ms": 1779287637606,
+      "content": "Luis enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/DYh3JbcmnRC/?carousel_share_child_media_id=3900640147930474354_78007622002",
+        "share_text": "",
+        "original_content_owner": "stevemartshop"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779276102877,
+      "content": "Nuno enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustavo Ferreira"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Inês Sousa"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYh8e-hkybN/?id=3900664763789813453_76369002438",
+        "share_text": "Cri\u00c3\u00a1mos o \u00e2\u0080\u009cPosto de Observa\u00c3\u00a7\u00c3\u00a3o S\u00c3\u00a9nior\u00e2\u0080\u009d \u00f0\u009f\u0091\u0080\n\nUm ponto de observa\u00c3\u00a7\u00c3\u00a3o informal, espont\u00c3\u00a2neo e totalmente assumido, pensado para os que passam e especialmente para os que param.\n\nPorque h\u00c3\u00a1 coisas simples que fazem parte da cultura de qualquer obra\u00e2\u0080\u00a6 e que n\u00c3\u00a3o queremos que desapare\u00c3\u00a7am! \u00f0\u009f\u008f\u0097\u00ef\u00b8\u008f\n\n#AOC #Constru\u00c3\u00a7\u00c3\u00a3oCivil #Obras",
+        "original_content_owner": "aoc.construcao"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Andrade",
+      "timestamp_ms": 1779271894963,
+      "content": "Ine\u00cc\u0082s enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustavo Ferreira"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Inês Sousa"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Catarina Moreira"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYhriVQOLrH/?id=3900590227562478279_531877467",
+        "share_text": "A gente vai se falando \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc\n\u00e2\u0080\u00a2\nNada contra, mas tbm nada a favor \u00f0\u009f\u0098\u0085\nQuem t\u00c3\u00a1 comigo? \u00f0\u009f\u0091\u0080\u00f0\u009f\u00a4\u00ad\n_\n#reels #meme #humor #acampar #explorar",
+        "original_content_owner": "mullersilvapersonal"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Andrade",
+      "timestamp_ms": 1779271877781,
+      "content": "Ine\u00cc\u0082s enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0093\u00a0",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYgCODhsINY/?id=3900127039254987608_805278578",
+        "share_text": "\u00e2\u0080\u009cMoraria aqui tranquilamente.\u00e2\u0080\u009d",
+        "original_content_owner": "luizantoniogmb"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Andrade",
+      "timestamp_ms": 1779224124781,
+      "content": "Ine\u00cc\u0082s enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYfP4ciNHFL/?id=3899905651953135947_223611974",
+        "share_text": "At\u00c3\u00a9 tento. \u00f0\u009f\u0098\u00ae\u00e2\u0080\u008d\u00f0\u009f\u0092\u00a8",
+        "original_content_owner": "ygordesa_"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779184609196,
+      "content": "Nuno enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Gustavo Ferreira"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Luis Fernandes"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nuno Marques",
+      "timestamp_ms": 1779184508034,
+      "content": "Nuno enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gustavo Ferreira"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYdaf36zaph/?id=3899389391928142433_46972517344",
+        "share_text": "Tonight, @thv took a turn in the audience as he watched @gracieabrams and @dojacat perform at: Hollywood. No stranger to a fashion show either, the @bts.bighitofficial star dressed in a look that could have easily appeared on the runway.",
+        "original_content_owner": "oxford.tushar"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Fernandes",
+      "timestamp_ms": 1779168147069,
+      "content": "4urblessedeyez reacted \u00f0\u009f\u0098\u0082 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gustavo Ferreira",
+      "timestamp_ms": 1779140985762,
+      "content": "Enviaste um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Luis Fernandes"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DX8LtIttoFO/?id=3890035658386211150_69512468539",
+        "share_text": "El nieto quer\u00c3\u00ada la herencia? \n\nSe cumplen 2 a\u00c3\u00b1os de cuando el nieto tackle\u00c3\u00b3 a su abuela porque gan\u00c3\u00b3 3 millones de pesos.\n\nSeguinos en @cheejoyitasperdidas para m\u00c3\u00a1s videos\u00f0\u009f\u0091\u0088\n.\n.\n.\n.\n#humor #fyb #memesargentinos #viral #PARATI",
+        "original_content_owner": "cheejoyitasperdidas"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Andrade",
+      "timestamp_ms": 1779135353481,
+      "content": "Ine\u00cc\u0082s enviou um anexo.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYTUEhwxa3R/?id=3896546374665481681_1171425375",
+        "share_text": "Subanle a esa locuraaa pero bajenme la papada waaa #fyi Cara de sufrimiento por las ex\u00c3\u00a1menes vistooo\nOtra era work de rihana GOOOOD",
+        "original_content_owner": "fabricioarbaiza"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Andrade",
+      "timestamp_ms": 1779134645567,
+      "content": "Ine\u00cc\u0082s enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Luis Fernandes"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DXxEEBPxhbz/?id=3886905821799782131_48486900433",
+        "share_text": "Uma festa de hard techno \u00c3\u00a9 feita para quem gosta de sentir a m\u00c3\u00basica no corpo. O grave bate forte, o ritmo \u00c3\u00a9 acelerado e a energia da pista n\u00c3\u00a3o cai por um segundo.\u00f0\u009f\u0091\u00bd\n\n\u00c3\u0089 um ambiente intenso, escuro e cheio de atitude, onde as luzes, os efeitos e os drops criam uma sensa\u00c3\u00a7\u00c3\u00a3o quase hipn\u00c3\u00b3tica. Cada batida parece puxar a multid\u00c3\u00a3o para outro n\u00c3\u00advel.\u00f0\u009f\u0094\u00a5\n\nNo hard techno, n\u00c3\u00a3o existe meio-termo: ou voc\u00c3\u00aa entra na vibe, ou a pista te engole. \u00c3\u0089 liberdade, adrenalina e conex\u00c3\u00a3o atrav\u00c3\u00a9s de um som pesado e marcante.\u00f0\u009f\u00aa\u00a9\n\n#festa #rave #musicaeletronica #amigos #soeletronica24h",
+        "original_content_owner": "soeletronica24h"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Catarina Dias",
+      "timestamp_ms": 1779044649078,
+      "content": "Catarina enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Nuno Marques"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYci_F0Ra9s/?id=3899145246550110060_29529614729",
+        "share_text": "\u00f0\u009f\u0098\u00b1 TERRIBLE ACCIDENTE DE ALEX M\u00c3\u0081RQUEZ \n\n\u00c3\u0081lex M\u00c3\u00a1rquez sufri\u00c3\u00b3 un dur\u00c3\u00adsimo accidente durante el GP de Catalunya de MotoGP tras impactar contra la KTM de Pedro Acosta, que hab\u00c3\u00ada presentado un problema mec\u00c3\u00a1nico en plena recta \u00f0\u009f\u0092\u00a5\n\nEl piloto de Gresini no pudo esquivar la moto y termin\u00c3\u00b3 contra las protecciones a gran velocidad. Los restos de la Ducati tambi\u00c3\u00a9n provocaron la ca\u00c3\u00adda de otros pilotos, entre ellos Fabio Di Giannantonio.\n\n\u00f0\u009f\u009a\u00a8 Parte m\u00c3\u00a9dico:\n\u00e2\u009d\u008c Fractura de clav\u00c3\u00adcula derecha\n\u00e2\u009d\u008c Fractura leve en la v\u00c3\u00a9rtebra C7\n\nAlex ser\u00c3\u00a1 operado este mismo domingo en el Hospital General de Catalunya. Afortunadamente, todos los pilotos involucrados permanecieron conscientes tras el impactante accidente \u00f0\u009f\u0099\u008f\n\n#MotoGP #AlexMarquez #CatalunyaGP #PedroAcosta #Montmelo",
+        "original_content_owner": "stream.motor"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Fernandes",
+      "timestamp_ms": 1779043744072,
+      "content": "Luis enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009c\u008c\u00ef\u00b8\u008f",
+          "actor": "Nuno Marques"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DVQyZl0iIzU/?id=3841792143069318356_76164406344",
+        "share_text": "Montenegro saiu da Spinumviva, mas o esp\u00c3\u00adrito Spinumviva n\u00c3\u00a3o sai de Montenegro. \n\nO Governo decidiu gastar 11 mil euros em cabeleireiro mas a quest\u00c3\u00a3o fundamental n\u00c3\u00a3o \u00c3\u00a9 o penteado, \u00c3\u00a9 o contrato. \n\nComo \u00c3\u00a9 que uma uma empresa criada h\u00c3\u00a1 um ano, com apenas 1.000\u00e2\u0082\u00ac de capital social, sem site, sem telefone, sediada num apartamento em Leiria consegue um contrato destes com o Estado portugu\u00c3\u00aas por ajuste direto? \n\n#talvezocontr\u00c3\u00a1riosejaomesmo #podcastportugal #corrup\u00c3\u00a7\u00c3\u00a3o #governo #cabeleireiro",
+        "original_content_owner": "talvezocontrariosejaomesmo"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Fernandes",
+      "timestamp_ms": 1779043286319,
+      "content": "Luis enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009c\u008c\u00ef\u00b8\u008f",
+          "actor": "Nuno Marques"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYcJ3eAgdZI/?id=3899034771606591048_74518944903",
+        "share_text": "Perante um pa\u00c3\u00ads de baix\u00c3\u00adssimos sal\u00c3\u00a1rios, temos um \u00c3\u00b3rg\u00c3\u00a3o como a CNE (Comiss\u00c3\u00a3o Nacional de Elei\u00c3\u00a7\u00c3\u00b5es) a pagar subs\u00c3\u00addio de lavagem de viatura. Isto sim, \u00c3\u00a9 gozar com os portugueses!\n\nCom 11 membros e 21 funcion\u00c3\u00a1rios, a CNE leva qualquer coisa como 3,551 milh\u00c3\u00b5es de euros, sendo que as despesas com pessoal s\u00c3\u00a3o na ordem dos 1,977 milh\u00c3\u00b5es \u00e2\u0080\u0094 quase 2 milh\u00c3\u00b5es de euros para ordenados. Para terem uma ideia, a Comiss\u00c3\u00a3o Nacional de Elei\u00c3\u00a7\u00c3\u00b5es tem funcion\u00c3\u00a1rios a ganhar perto de 8000 \u00e2\u0082\u00ac e 9000 \u00e2\u0082\u00ac, e h\u00c3\u00a1 at\u00c3\u00a9 um sal\u00c3\u00a1rio que ultrapassa os 14 000 \u00e2\u0082\u00ac; depois, ainda h\u00c3\u00a1 despesas a pagar deste tipo: uma viagem recente de dois membros a Angola custou mais de 12 500 \u00e2\u0082\u00ac, fora ajudas de custo.\n\nA CNE re\u00c3\u00bane-se, habitualmente, uma vez por semana, \u00c3\u00a0 ter\u00c3\u00a7a-feira, e sempre que necess\u00c3\u00a1rio. Os 11 membros recebem senhas de presen\u00c3\u00a7a que variam entre os cerca de 225 \u00e2\u0082\u00ac e os 2770 \u00e2\u0082\u00ac. A comiss\u00c3\u00a3o tem compet\u00c3\u00aancia para disciplinar e fiscalizar todos os atos de recenseamento e opera\u00c3\u00a7\u00c3\u00b5es eleitorais.\n\nResta saber quantos mais \u00c3\u00b3rg\u00c3\u00a3os como este existem em Portugal a comer \u00c3\u00a0 custa dos impostos que nos tiram. Depois dizem que n\u00c3\u00a3o h\u00c3\u00a1 dinheiro para os bombeiros ou que n\u00c3\u00a3o \u00c3\u00a9 poss\u00c3\u00advel baixar a idade da reforma. At\u00c3\u00a9 quando vamos permitir que isto aconte\u00c3\u00a7a \u00c3\u00a0 nossa custa?",
+        "original_content_owner": "acordar__portugal"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Inês Andrade",
+      "timestamp_ms": 1779040513958,
+      "content": "Ine\u00cc\u0082s enviou um anexo.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DYZY5oMuOHy/?id=3898256465755431410_69014389073",
+        "share_text": "e ainda n\u00c3\u00a3o me recuperei \u00f0\u009f\u0092\u0080",
+        "original_content_owner": "mariateresaaraujonaime"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Fernandes",
       "timestamp_ms": 1778970149302,
       "content": "Luis enviou um anexo.",
       "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        },
         {
           "reaction": "\u00e2\u009d\u00a4",
           "actor": "Gustavo Ferreira"
@@ -70,6 +1186,10 @@
       "timestamp_ms": 1778970035013,
       "content": "Luis enviou um anexo.",
       "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nuno Marques"
+        },
         {
           "reaction": "\u00f0\u009f\u0093\u00a0",
           "actor": "Gustavo Ferreira"
@@ -967,7 +2087,7 @@
       "share": {
         "link": "https://www.instagram.com/p/DXqXzO_jVx9/",
         "share_text": "Adopten \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\n\n\u00f0\u009f\u0090\u00b6 \n\n#adopta #perritos #perros",
-        "original_content_owner": "h_jesus_vr"
+        "original_content_owner": "h_jesus90"
       },
       "is_geoblocked_for_viewer": false,
       "is_unsent_image_by_messenger_kid_parent": false
@@ -1481,7 +2601,7 @@
         },
         {
           "reaction": "\u00f0\u009f\u0098\u0082",
-          "actor": "João Almeida"
+          "actor": "João Almeida (Genus)"
         },
         {
           "reaction": "\u00f0\u009f\u0098\u0082",
@@ -1934,11 +3054,6 @@
           "actor": "Luis Fernandes"
         }
       ],
-      "share": {
-        "link": "https://www.instagram.com/reel/DXzQzQrvpbJ/?id=3887524794702141129_40857649439",
-        "share_text": "Honestly, I have been crying laughing at this post for ten minutes. You know that specific feeling when you look in the mirror and think, \"Yeah, it\u00e2\u0080\u0099s over, nothing can fix this\"? Well, apparently, you just haven't met the right barber yet. This man walked in looking like he\u00e2\u0080\u0099d been living in the wilderness for three years, and just forty minutes later, he\u00e2\u0080\u0099s out here looking like he\u00e2\u0080\u0099s about to go secure a promotion or win an argument he didn't even know he was in.\n\u00e2\u0080\u008bThe transformation is actually insane. It\u00e2\u0080\u0099s not just a haircut; it\u00e2\u0080\u0099s a full-blown identity shift. I don't know who needs to see this, but if you\u00e2\u0080\u0099re currently down bad and feeling like the world is against you, just go get a fresh fade. That barber is absolutely chaotic for that caption\u00e2\u0080\u0094he really went for the jugular\u00e2\u0080\u0094but you can\u00e2\u0080\u0099t even be mad because the work speaks for itself. It\u00e2\u0080\u0099s pure, unfiltered sorcery. One minute you\u00e2\u0080\u0099re looking rough, the next you\u00e2\u0080\u0099re ready to meet the President. Shoutout to the barbers out there doing the real work, one clipper pass at a time.\n\u00e2\u0080\u008b#barbershop #freshfade #transformation #barberhumor #glowup",
-        "original_content_owner": "badlocy"
-      },
       "is_geoblocked_for_viewer": false,
       "is_unsent_image_by_messenger_kid_parent": false
     },
