@@ -33,23 +33,20 @@ jobs:
         run: npm run build
         env:
           VITE_BASE_PATH: /${{ github.event.repository.name }}/
-          # Voting disabled for now — uncomment when MvpVote is back in App.tsx
           # Values must be quoted — bare https://... breaks YAML parsing in Actions
-          # VITE_SUPABASE_URL: "https://hytujuxndxfgkuhnvgef.supabase.co"
-          # VITE_SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh5dHVqdXhuZHhmZ2t1aG52Z2VmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkwMzM2MzMsImV4cCI6MjA5NDYwOTYzM30.8G-sHX-doXLJgQaM6Y-fmC4BABE7ISDLAOrSGl9_qvE"
+          VITE_SUPABASE_URL: "https://hytujuxndxfgkuhnvgef.supabase.co"
+          VITE_SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh5dHVqdXhuZHhmZ2t1aG52Z2VmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkwMzM2MzMsImV4cCI6MjA5NDYwOTYzM30.8G-sHX-doXLJgQaM6Y-fmC4BABE7ISDLAOrSGl9_qvE"
 
       - name: Verify production bundle
         run: |
           test -f dist/index.html
           grep -q '/assets/' dist/index.html
           ! grep -q 'src/main.tsx' dist/index.html
-          # Voting disabled for now — uncomment when MvpVote is back in App.tsx
-          # grep -q 'hytujuxndxfgkuhnvgef.supabase.co' dist/assets/*.js || {
-          #   echo '::error::Supabase URL missing from JS bundle — check env quoting in this workflow.'
-          #   exit 1
-          # }
-          # echo "OK: Supabase URL embedded in bundle"
-          echo "OK: production bundle looks valid"
+          grep -q 'hytujuxndxfgkuhnvgef.supabase.co' dist/assets/*.js || {
+            echo '::error::Supabase URL missing from JS bundle — check env quoting in this workflow.'
+            exit 1
+          }
+          echo "OK: Supabase URL embedded in bundle"
 
       - uses: actions/upload-pages-artifact@v3
         with:
