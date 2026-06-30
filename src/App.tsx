@@ -1,6 +1,8 @@
 import { monthlyAnalytics } from './lib/messagesData'
+import { monthKeyFromLabel } from './lib/parser'
 import type { MonthlyAnalytics } from './types'
 import { MayWinner } from './components/MayWinner'
+import { MvpVote } from './components/MvpVote'
 import { ReactionBreakdown } from './components/ReactionBreakdown'
 import { ReelsChart } from './components/ReelsChart'
 import { Section } from './components/Section'
@@ -8,6 +10,8 @@ import { StatCard } from './components/StatCard'
 import { TopReelsList } from './components/TopReelsList'
 
 function Dashboard({ analytics }: { analytics: MonthlyAnalytics }) {
+  const monthKey = monthKeyFromLabel(analytics.monthLabel)
+
   return (
     <div className="space-y-8 pb-12">
       <header className="space-y-1">
@@ -19,10 +23,6 @@ function Dashboard({ analytics }: { analytics: MonthlyAnalytics }) {
           {analytics.totalReels} reel{analytics.totalReels !== 1 ? 's' : ''} no período
         </p>
       </header>
-
-      <Section title="👑 MVP de maio">
-        <MayWinner name="Nuno Marques" />
-      </Section>
 
       <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
         <StatCard
@@ -57,6 +57,10 @@ function Dashboard({ analytics }: { analytics: MonthlyAnalytics }) {
 
       <Section title="Quem reagiu aos reels de cada um">
         <ReactionBreakdown breakdown={analytics.reactionBreakdown} />
+      </Section>
+
+      <Section title="Vota no MVP do mês">
+        <MvpVote monthKey={monthKey} candidates={analytics.members} />
       </Section>
     </div>
   )
