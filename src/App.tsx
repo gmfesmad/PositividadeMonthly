@@ -1,7 +1,6 @@
 import { monthlyAnalytics } from './lib/messagesData'
 import { monthKeyFromLabel } from './lib/parser'
 import type { MonthlyAnalytics } from './types'
-import { MayWinner } from './components/MayWinner'
 import { MvpVote } from './components/MvpVote'
 import { ReactionBreakdown } from './components/ReactionBreakdown'
 import { ReelsChart } from './components/ReelsChart'
