@@ -5,9 +5,10 @@ import { castVote, clearVote, loadVotes, subscribeToVotes } from '../lib/votes'
 interface MvpVoteProps {
   monthKey: string
   candidates: string[]
+  readOnly?: boolean
 }
 
-export function MvpVote({ monthKey, candidates }: MvpVoteProps) {
+export function MvpVote({ monthKey, candidates, readOnly = false }: MvpVoteProps) {
   const [state, setState] = useState<MvpVoteState | null>(null)
   const [loading, setLoading] = useState(true)
   const [submitting, setSubmitting] = useState(false)
@@ -51,7 +52,7 @@ export function MvpVote({ monthKey, candidates }: MvpVoteProps) {
   }, [monthKey])
 
   async function handleVote(candidate: string) {
-    if (!state?.configured || submitting) return
+    if (readOnly || !state?.configured || submitting) return
     setSubmitting(true)
     setError(null)
     try {
@@ -64,7 +65,7 @@ export function MvpVote({ monthKey, candidates }: MvpVoteProps) {
   }
 
   async function handleClearVote() {
-    if (!state?.configured || submitting) return
+    if (readOnly || !state?.configured || submitting) return
     setSubmitting(true)
     setError(null)
     try {
@@ -100,8 +101,9 @@ export function MvpVote({ monthKey, candidates }: MvpVoteProps) {
   return (
     <section className="space-y-4">
       <p className="text-sm text-white/60">
-        Um voto por dispositivo. Os resultados são partilhados com todo o grupo em tempo
-        real.
+        {readOnly
+          ? 'A votação terminou. Os resultados finais estão abaixo.'
+          : 'Um voto por dispositivo. Os resultados são partilhados com todo o grupo em tempo real.'}
       </p>
 
       {error && (
@@ -118,9 +120,9 @@ export function MvpVote({ monthKey, candidates }: MvpVoteProps) {
             <button
               key={name}
               type="button"
-              disabled={submitting}
+              disabled={readOnly || submitting}
               onClick={() => void handleVote(name)}
-              className={`rounded-xl border px-4 py-3 text-left transition disabled:opacity-50 ${
+              className={`rounded-xl border px-4 py-3 text-left transition disabled:cursor-not-allowed disabled:opacity-50 ${
                 isSelected
                   ? 'border-pink-400 bg-pink-500/20 text-white'
                   : 'border-white/15 bg-white/5 text-white/90 hover:border-white/25'
@@ -135,7 +137,7 @@ export function MvpVote({ monthKey, candidates }: MvpVoteProps) {
         })}
       </div>
 
-      {state.userVote && (
+      {!readOnly && state.userVote && (
         <button
           type="button"
           disabled={submitting}
