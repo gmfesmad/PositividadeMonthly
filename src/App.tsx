@@ -1,8 +1,6 @@
 import { monthlyAnalytics } from './lib/messagesData'
 import { monthKeyFromLabel } from './lib/parser'
 import type { MonthlyAnalytics } from './types'
-import juneWinnerPhoto from './assets/JuneWinner.jpg'
-import { MonthWinner } from './components/MonthWinner'
 import { MvpVote } from './components/MvpVote'
 import { ReactionBreakdown } from './components/ReactionBreakdown'
 import { ReelsChart } from './components/ReelsChart'
@@ -24,10 +22,6 @@ function Dashboard({ analytics }: { analytics: MonthlyAnalytics }) {
           {analytics.totalReels} reel{analytics.totalReels !== 1 ? 's' : ''} no período
         </p>
       </header>
-
-      <Section title="👑 MVP de junho">
-        <MonthWinner name="Catarina Moreira" monthLabel="junho" photo={juneWinnerPhoto} />
-      </Section>
 
       <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
         <StatCard
@@ -65,7 +59,7 @@ function Dashboard({ analytics }: { analytics: MonthlyAnalytics }) {
       </Section>
 
       <Section title="Vota no MVP do mês">
-        <MvpVote monthKey={monthKey} candidates={analytics.members} readOnly />
+        <MvpVote monthKey={monthKey} candidates={analytics.members} />
       </Section>
     </div>
   )
